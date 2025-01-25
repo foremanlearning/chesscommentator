@@ -129,7 +129,7 @@ class ChessCommentator:
             # Store evaluation thresholds (in centipawns)
             self.BLUNDER_THRESHOLD = -200  # -2.00 pawns
             self.MISTAKE_THRESHOLD = -100  # -1.00 pawns
-            self.MISSED_WIN_THRESHOLD = 300  # +3.00 pawns
+            self.MISSED_WIN_THRESHOLD = 300  # +3.00 pawns 
             self.MATE_SCORE = 10000  # Used for mate-in-X evaluations
             
             # Add piece values for material counting
