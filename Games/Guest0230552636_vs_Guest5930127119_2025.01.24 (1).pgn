@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.24"]
+[Round "?"]
+[White "Guest0230552636"]
+[Black "Guest5930127119"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "400"]
+[BlackElo "400"]
+[Termination "Guest5930127119 won by checkmate"]
+[Link "https://www.chess.com/game/122374995392"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 Bc5 4. d4 exd4 5. O-O h6 6. Na3 d6 7. c3 dxc3 8. bxc3
+Qxc3 9. Rb1 Bxa3 10. Nd4 Bxc1 11. Qh5 Qxc4 12. Rfxc1 Qxa2 13. Rxc7 Qxb1+ 14. Rc1
+Qxc1+ 15. Qd1 Qxd1# 0-1
