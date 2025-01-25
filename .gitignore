@@ -1,0 +1,18 @@
+# Output files
+output/*.mp4
+output/*.pdf
+
+# Generated audio files
+temp_audio_*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large binary files
+*.exe
+*.dll
+
+# Environment
+venv/
+.env 
